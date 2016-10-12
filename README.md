@@ -9,7 +9,7 @@ Intent1
 ![whatsapp image 2016-10-12 at 6 37 28 pm](https://cloud.githubusercontent.com/assets/22194513/19308719/43f4aaa8-90ab-11e6-98be-18447ca619fe.jpeg)
 
 
-Nama    : I'in Nuraini
-No Urut : 13
-NIS     : 4723/1442.070 
-Sekolah : SMK TELKOM MALANG
+Nama    : I'in Nuraini  <br>
+No Urut : 13<br>
+NIS     : 4723/1442.070 <br>
+Sekolah : SMK TELKOM MALANG<br>
